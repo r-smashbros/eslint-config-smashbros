@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-smashbros",
+  "name": "@r-smashbros/eslint-config-smashbros",
   "engines": {
     "node": ">=8.0.0"
   },
