@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-smashbros",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r-smashbros/eslint-config-smashbros"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "eslint": "^6.4.0"
+  }
+}
